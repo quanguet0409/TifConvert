@@ -1,0 +1,7 @@
+customtkinter==5.2.1
+rasterio
+numpy
+matplotlib
+scipy
+geopandas
+Pillow
